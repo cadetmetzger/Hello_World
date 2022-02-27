@@ -1,5 +1,5 @@
 # Project Title
-Business Analytics Pro Prep Assignment
+**Business Analytics Pro Prep Assignment**
 # Description
 *I am learning how to work a repository on Github.*
 # How to Run Program
